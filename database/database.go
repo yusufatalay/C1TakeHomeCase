@@ -20,6 +20,4 @@ func init() {
 	}
 	log.Println("Database connection has been made")
 
-	// Do database migrations
-	log.Println("Database migrations completed")
 }
